@@ -73,6 +73,30 @@ Teste 14 Tage lang alles ohne Einschränkung. Danach schaltest du GLX Explorer T
 
 ---
 
+## 📸 Überblick & Screenshots
+
+### 1️⃣ Startseite mit Speichern, Favoriten und Kategorien
+
+<p align="center"><img src="screenshots/01-start.jpg" alt="Startseite mit Speichern, Favoriten und Kategorien" width="850"></p>
+
+### 2️⃣ Netzwerkordner (SMB) mit der Fernbedienung durchsuchen
+
+<p align="center"><img src="screenshots/02-network-folder.jpg" alt="Netzwerkordner (SMB) mit der Fernbedienung durchsuchen" width="850"></p>
+
+### 3️⃣ Einstellungen: Design, Größe, Player, Bildschirmschoner und mehr
+
+<p align="center"><img src="screenshots/03-settings.jpg" alt="Einstellungen: Design, Größe, Player, Bildschirmschoner und mehr" width="850"></p>
+
+### 4️⃣ 12 Designs zur Auswahl
+
+<p align="center"><img src="screenshots/04-designs.jpg" alt="12 Designs zur Auswahl" width="850"></p>
+
+### 5️⃣ Startseite im hellen Design
+
+<p align="center"><img src="screenshots/05-light-design.jpg" alt="Startseite im hellen Design" width="850"></p>
+
+---
+
 ## ✨ Funktionen
 
 - 🚀 **Für die Fernbedienung:** Steuerkreuz, OK und Zurück reichen für jede Funktion. Maus und Touch gehen auch.

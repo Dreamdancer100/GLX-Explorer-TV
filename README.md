@@ -73,6 +73,30 @@ Try everything without limits for 14 days. After that you activate GLX Explorer 
 
 ---
 
+## 📸 Overview & Screenshots
+
+### 1️⃣ Home screen with storage, favourites and categories
+
+<p align="center"><img src="screenshots/01-start.jpg" alt="Home screen with storage, favourites and categories" width="850"></p>
+
+### 2️⃣ Browsing a network share (SMB) with the remote
+
+<p align="center"><img src="screenshots/02-network-folder.jpg" alt="Browsing a network share (SMB) with the remote" width="850"></p>
+
+### 3️⃣ Settings: design, size, player, screensaver and more
+
+<p align="center"><img src="screenshots/03-settings.jpg" alt="Settings: design, size, player, screensaver and more" width="850"></p>
+
+### 4️⃣ 12 designs to choose from
+
+<p align="center"><img src="screenshots/04-designs.jpg" alt="12 designs to choose from" width="850"></p>
+
+### 5️⃣ Home screen in the light design
+
+<p align="center"><img src="screenshots/05-light-design.jpg" alt="Home screen in the light design" width="850"></p>
+
+---
+
 ## ✨ Features
 
 - 🚀 **Made for the remote:** D-pad, OK and Back are enough for every function. Mouse and touch work too.
